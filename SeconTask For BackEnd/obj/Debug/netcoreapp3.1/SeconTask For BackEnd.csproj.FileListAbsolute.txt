@@ -1,0 +1,42 @@
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\bin\Debug\netcoreapp3.1\SeconTask For BackEnd.exe
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\bin\Debug\netcoreapp3.1\SeconTask For BackEnd.deps.json
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\bin\Debug\netcoreapp3.1\SeconTask For BackEnd.runtimeconfig.json
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\bin\Debug\netcoreapp3.1\SeconTask For BackEnd.runtimeconfig.dev.json
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\bin\Debug\netcoreapp3.1\SeconTask For BackEnd.dll
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\bin\Debug\netcoreapp3.1\SeconTask For BackEnd.pdb
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\bin\Debug\netcoreapp3.1\SeconTask For BackEnd.Views.dll
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\bin\Debug\netcoreapp3.1\SeconTask For BackEnd.Views.pdb
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\SeconTask For BackEnd.csproj.AssemblyReference.cache
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\SeconTask For BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\SeconTask For BackEnd.AssemblyInfoInputs.cache
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\SeconTask For BackEnd.AssemblyInfo.cs
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\SeconTask For BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\SeconTask For BackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\SeconTask For BackEnd.RazorAssemblyInfo.cache
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\SeconTask For BackEnd.RazorAssemblyInfo.cs
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\staticwebassets\SeconTask For BackEnd.StaticWebAssets.Manifest.cache
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\staticwebassets\SeconTask For BackEnd.StaticWebAssets.Pack.cache
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SeconTask For BackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SeconTask For BackEnd.props
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SeconTask For BackEnd.props
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SeconTask For BackEnd.props
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\SeconTask For BackEnd.TagHelpers.input.cache
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\SeconTask For BackEnd.TagHelpers.output.cache
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\SeconTask For BackEnd.RazorCoreGenerate.cache
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\SeconTask For BackEnd.RazorTargetAssemblyInfo.cache
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\SeconTask For BackEnd.RazorTargetAssemblyInfo.cs
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\SeconTask For BackEnd.Views.pdb
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\SeconTask For BackEnd.dll
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\SeconTask For BackEnd.pdb
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\SeconTask For BackEnd.genruntimeconfig.cache
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\SeconTask For BackEnd.csproj.CopyComplete
+C:\Users\99470\Desktop\Code\BackEnd\SeconTask For BackEnd\SeconTask For BackEnd\obj\Debug\netcoreapp3.1\Razor\Views\Student\Detail.cshtml.g.cs

@@ -1,0 +1,10 @@
+﻿@model List<Student>
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>
+            @item.FullName - @item.Point
+        </li>
+    }
+</ul>
